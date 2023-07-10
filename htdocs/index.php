@@ -70,7 +70,7 @@
     </main>
 
     <footer class="text-center">
-		  © Ebina Kai
+		  © G8-1
     </footer>
     </div>
 </body>
