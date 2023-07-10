@@ -28,6 +28,7 @@ SET time_zone = "+00:00";
 --
 
 CREATE DATABASE staying_in_room;
+USE staying_in_room;
 CREATE TABLE `teacher` (
   `teacher_id` int NOT NULL,
   `teacher_name` varchar(50) NOT NULL,
